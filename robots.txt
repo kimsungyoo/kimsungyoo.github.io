@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://kimsungyoo.com/sitemap.xml
+Sitemap: http://www.kimsungyoo.com/sitemap.xml
