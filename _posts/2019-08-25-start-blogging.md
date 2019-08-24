@@ -1,14 +1,14 @@
 ---
 category: blog
 layout: post
-title: "블로깅 시작"
 author: kimsungyoo
+title: "블로깅 시작"
+description: "쌩유블로그를 시작하면서 쓰는 글"
 date: 2019-08-25 01:06
 headerImage: false
 tag:
 - blogging
 - 일상
-author: kimsungyoo
 ---
 
 나에게 "블로깅" 이란 "운동" 같은 것이었습니다.<br />
