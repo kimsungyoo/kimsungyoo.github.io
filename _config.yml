@@ -33,6 +33,9 @@ disqus:
   shortname: mydisqus # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
+utterances:
+  categories: [blog, project]
+
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 # twitter: mytwitter
@@ -96,6 +99,7 @@ animation: true
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji

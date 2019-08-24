@@ -3,7 +3,6 @@
     > .list
         list-style: none
         margin: 0
-        padding: 0 13px 0
 
         > .item
             display: inline-block
@@ -16,12 +15,23 @@
             text-decoration: none
 
 .nav
-    position: absolute
-    right: 0
+    position: fixed
     top: 0
+    width: 560px
+    background-color: rgba(255, 255, 255, 0.8)
+
+    @media only screen and (max-width: 560px)
+        width: 88%
+
+    a img.home-btn
+        display: inline
+        padding: 17px
+        width: 30px
+        height: 30px
+        margin-left: -17px
 
     > .list
-        padding: 0 13px 0
+        float: right
 
         > .item > .link
             font-size: 1.4rem
