@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-<img alt="winter" style="border-radius: 100%;" src="{{ site.url }}{{ "/assets/images/about_winter.jpg" }}">
+![winter](/assets/images/about_winter.jpg){: class="round"}
 
 <p style="text-align: center;">
 	우리 고양이는 성격이 좋지 않습니다.<br />
