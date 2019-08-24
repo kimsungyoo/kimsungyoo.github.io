@@ -46,7 +46,7 @@ Jekyll과 함께 몇가지 기술 스택을 사용하게 되었는데 이 포스
 2. [uterances](#utterances)
 3. [GitHub](#github)
 
----
+<div class="breaker"></div>
 
 ### Jekyll
 
@@ -82,7 +82,7 @@ Jekyll의 단점으로는 CMS(글 쓰기 툴) 기능을 들 수가 있습니다.
 텍스트 에디터를 통해 markdown 문법으로 글을 작성한 후에(지금 이 글을 작성하는 방법입니다.) 소스코드를 업로드 합니다.
 이 방법이 번거롭긴 하지만 개발자인 나에게 있어 그닥 어려운 일은 아니어서 markdown 연습도 할 겸 Jekyll을 사용하기로 결정했습니다.
 
----
+<div class="breaker"></div>
 
 ### utterances
 
@@ -99,7 +99,7 @@ repository를 public으로 설정해야 한다는 제약사항이 있긴 하지�
 이 블로그에 올 사람들은 주로 개발자일 것이라 생각되어 GitHub 계정은 다들 갖고 있을 것이므로 댓글 쓰는 것도 무리가 없을 것이라 생각되어
 utterances를 댓글 플러그인으로 사용하게 되었습니다.
 
----
+<div class="breaker"></div>
 
 ### GitHub
 
