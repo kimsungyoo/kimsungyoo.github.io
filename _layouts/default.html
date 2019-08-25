@@ -18,8 +18,13 @@ layout: compress
     <meta property="og:image" content="{{ site.url }}/{{ site.picture }}">
     <meta property="og:type" content="profile">
 
-    {% seo %}
-    
+    {% if page.path == 'index.html' %}
+        <title>{{ site.name }}</title>
+        {% seo title=false %}
+    {% else %}
+        {% seo %}
+    {% endif %}
+
     {% include favicon.html %}
 
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
