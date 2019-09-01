@@ -2,12 +2,13 @@
 category: blog
 layout: post
 author: kimsungyoo
-title: "둘째 고양이 사진"
-description: "고양이 사진 - 여름이의 일상 2019-09-01"
+title: "고양이가 있는 일상"
+description: "고양이 사진 - 우리집 둘째 여름이의 일상 2019-09-01"
 date: 2019-09-01 19:52
 headerImage: false
 tag:
 - 일상
+- 고양이사진
 - cat
 - summer
 ---
