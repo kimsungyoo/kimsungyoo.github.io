@@ -3,7 +3,7 @@ name: 쌩유블로그
 bio: 쌩유의 소소한 블로그
 
 # twitter summary info
-description: 쌩유의 소소한 블로그
+description: 사소한 개발 이야기와 고양이 사진 약간.
 
 # if it's an external image, update below for true
 # better with square images
@@ -106,7 +106,7 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://www.kimsungyoo.com
 
 compress_html:
     ignore:
