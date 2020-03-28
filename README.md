@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center">kimsungyoo.com : blog</h2>
+    <h2 align="center">kimsungyoo.com : Blog</h2>
 </p>
 
 <p align="center">This is a kimsungyoo.com blog powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/sergiokopplin/indigo/fork" target="_blank">Indigo theme</a>.
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <img src="/assets/images/about_winter.jpg">
+    <img src="/assets/images/emblem.png">
 </p>
 
 ## What has inside
