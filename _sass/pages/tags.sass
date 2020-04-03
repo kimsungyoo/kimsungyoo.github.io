@@ -23,21 +23,24 @@
 
 .tags > .list
     > .item
-        font-weight: 300
         text-transform: uppercase
         text-align: center
         margin-bottom: 6rem
         -webkit-font-smoothing: antialiased
         text-rendering: optimizeLegibility
         padding: 3px 9px
-        border-radius: 3px
+        border-radius: 11px
         font-size: 1.3rem
+        font-weight: normal
         background: $epsilon
-        color: $alpha
+        color: $delta
         letter-spacing: 1px
         margin: 0 0.5rem 1rem
         text-decoration: none
         display: inline-block
+
+        &:hover
+            background: $epsilonTransparent
 
 .tag-list > .list
     padding: 0
