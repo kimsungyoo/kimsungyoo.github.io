@@ -1,21 +1,21 @@
 <nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
     {% if page.title != "Home" %}
-        <a href="{{ site.url }}/">
-            <img class="home-btn" alt="home" src="{{ site.url }}{{ "/assets/images/emblem.png" }}"
+        <a href="/">
+            <img class="home-btn" alt="home" src="/assets/images/emblem.png">
         </a>
     {% endif %}
 
     <ul class="list">
         <li class="item">
-            <a class="link" href="{{ site.url }}/blog">Blog</a>
+            <a class="link" href="/blog">Blog</a>
         </li>
 
         <li class="item">
-            <a class="link" href="{{ site.url }}/tags">Tags</a>
+            <a class="link" href="/tags">Tags</a>
         </li>
 
         <li class="item">
-            <a class="link" href="{{ site.url }}/about">About</a>
+            <a class="link" href="/about">About</a>
         </li>
     </ul>
 </nav>
